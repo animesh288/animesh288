@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @animesh288
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning about blockchains 
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning about Blockchains 
 - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me at animesh.satish@gmail.com
 
